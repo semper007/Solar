@@ -230,30 +230,6 @@ header p, header h1, header h2{
 	justify-content: end;
 }
 
-/* .main_3{
-	background-image: url(img/Rectangle\ 10.jpg);
-	background-repeat: no-repeat;
-	display: flex;
-	justify-content: center;
-}
-
-.main_3{
-	font-weight: 400;
-	font-size: 42px;
-	line-height: 57px;
-	text-align: center;
-	color: #fff;
-	width: 670px;
-	margin-top: 128px;
-	margin-bottom: 144px;
-}
-
-.h3_1{
-	text-align: center;
-} */
-
-
-
 .main_3{
 	background-image: url(img/Rectangle\ 10.jpg);
 	background-repeat: no-repeat;
